@@ -1,4 +1,3 @@
-### DBFoundations-Module07
 ## Name: Justin Logan (JALogan)
 ## Date: 3/3/23
 ## Course: IT FDN 130 A Wi 23: Foundations Of Databases & SQL Programming
